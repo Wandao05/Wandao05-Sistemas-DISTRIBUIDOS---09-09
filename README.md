@@ -1,1 +1,3 @@
-# Wandao05-Sistemas-DISTRIBUIDOS---09-09
+Nessa primeira parte, executei o programa cliente_udp.py para testar a comunicação com o servidor UDP. No começo tive um erro no código por causa do endereço IP, que estava escrito de forma incorreta. Depois que corrigi esse problema, consegui executar novamente e enviar a mensagem “Olá! Estou em outro computador.”. O servidor recebeu a mensagem corretamente e mostrou a resposta no terminal.
+Depois continuei a atividade fazendo novos testes com o mesmo programa. Enviei primeiro a mensagem “Ola servidor UDP!” e depois a “Segunda mensagem”. Nas duas tentativas o servidor recebeu as mensagens corretamente e mostrou a resposta no terminal.
+Com esses testes consegui entender melhor como funciona a comunicação entre cliente e servidor usando UDP. Tive algumas dificuldades no começo, principalmente com o endereço IP e a execução do código, mas depois de corrigir consegui fazer a comunicação funcionar.
